@@ -381,8 +381,8 @@ h2.sub-title::after {
 /* I LOVE PHOTOGRAPHY ANIMATION START */
 
 section.beating-heart {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.6))), url('../images/hero-bg.jpg') no-repeat right bottom / cover;
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/hero-bg.jpg') no-repeat right bottom / cover;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.6))), url('hero-bg.jpg') no-repeat right bottom / cover;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('hero-bg.jpg') no-repeat right bottom / cover;
   text-align: center;
   height: 100vh;
   padding: 50px 10px;
